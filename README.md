@@ -62,10 +62,13 @@ Some of my work has been published through:
 
 <img src="assets/SoftwareLogo/GooglePlay.jpeg" width="500" height="250">
 - Google Play Store- 
+-https://play.google.com/store/apps/developer?id=Uday+Pratap+Chaudhary
 <img src="assets/SoftwareLogo/itchio.jpeg" width="500" height="250">
 -itch.io- 
+-https://uday-pratap-chaudhary.itch.io/
 <img src="assets/SoftwareLogo/cg-trader.jpeg" width="500" height="250">
 - CGTrader
+-https://www.cgtrader.com/designers/upc-studio
 
 My public GitHub repositories showcase selected projects, experiments, and technical work.
 
