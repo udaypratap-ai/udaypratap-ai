@@ -9,6 +9,7 @@ I enjoy turning ideas into working systems — combining programming, AI, 3D, an
 ## What I Work With
 
 ### Software & AI
+Python.jpeg
 - Python
 - AI & Automation
 - Flutter & Dart
