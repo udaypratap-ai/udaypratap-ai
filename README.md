@@ -9,12 +9,17 @@ I enjoy turning ideas into working systems — combining programming, AI, 3D, an
 ## What I Work With
 
 ### Software & AI
-Python.jpeg
+<img src="assets/SoftwareLogo/Python.jpeg" width="1000">
 - Python
+<img src="assets/SoftwareLogo/Automation.jpeg" width="1000"> Python
 - AI & Automation
+<img src="assets/SoftwareLogo/flutter.jpeg" width="1000"> Python
 - Flutter & Dart
+<img src="assets/SoftwareLogo/C#.jpeg" width="1000"> Python
 - C#
+<img src="assets/SoftwareLogo/Github.jpeg" width="1000"> Python
 - Git & GitHub
+<img src="assets/SoftwareLogo/VisualStudio.jpeg" width="1000"> Python
 - Visual Studio Code
 
 ### 3D & Real-Time Development
