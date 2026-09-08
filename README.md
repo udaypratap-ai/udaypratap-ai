@@ -9,45 +9,62 @@ I enjoy turning ideas into working systems — combining programming, AI, 3D, an
 ## What I Work With
 
 ### Software & AI
-<img src="assets/SoftwareLogo/Python.jpeg" width="1000">
+
+<img src="assets/SoftwareLogo/Python.jpeg" width="500" height="250">
 - Python
-<img src="assets/SoftwareLogo/Automation.jpeg" width="1000"> Python
+
+<img src="assets/SoftwareLogo/Automation.jpeg" width="500" height="250">
 - AI & Automation
-<img src="assets/SoftwareLogo/flutter.jpeg" width="1000"> Python
+
+<img src="assets/SoftwareLogo/flutter.jpeg" width="500" height="250">
 - Flutter & Dart
-<img src="assets/SoftwareLogo/Csharpe.jpeg" width="1000"> Python
+
+<img src="assets/SoftwareLogo/Csharpe.jpeg" width="500" height="250">
 - C#
-<img src="assets/SoftwareLogo/Github.jpeg" width="1000"> Python
+
+<img src="assets/SoftwareLogo/Github.jpeg" width="500" height="250">
 - Git & GitHub
-<img src="assets/SoftwareLogo/VisualStudio.jpeg" width="1000"> Python
+
+<img src="assets/SoftwareLogo/VisualStudio.jpeg" width="500" height="250">
 - Visual Studio Code
 
-### 3D & Real-Time Development
-<img src="assets/SoftwareLogo/unity.jpeg" width="1000">
-- Unity
-<img src="assets/SoftwareLogo/blender.jpeg" width="1000">
-- Blender
-<img src="assets/SoftwareLogo/MakeHuman.jpeg" width="1000">
-- MakeHuman
-<img src="assets/SoftwareLogo/Bforartist.jpeg" width="1000">
-- Bforartists
-<img src="assets/SoftwareLogo/Visulation.png" width="1000">
-- 3D Modeling & Visualization
-<img src="assets/SoftwareLogo/Animation.jpeg" width="1000">
-- Animation
-<img src="assets/SoftwareLogo/ProceduralGeneration.jpeg" width="1000">
-- Procedural Generation
-<img src="assets/SoftwareLogo/Simulation.png" width="1000">
-- Real-Time Simulation
 
+### 3D & Real-Time Development
+
+<img src="assets/SoftwareLogo/unity.jpeg" width="500" height="250">
+- Unity
+
+<img src="assets/SoftwareLogo/blender.jpeg" width="500" height="250">
+- Blender
+
+<img src="assets/SoftwareLogo/MakeHuman.jpeg" width="500" height="250">
+- MakeHuman
+
+<img src="assets/SoftwareLogo/Bforartist.jpeg" width="500" height="250">
+- Bforartists
+
+<img src="assets/SoftwareLogo/Visulation.png" width="500" height="250">
+- 3D Modeling & Visualization
+
+<img src="assets/SoftwareLogo/Animation.jpeg" width="500" height="250">
+- Animation
+
+<img src="assets/SoftwareLogo/ProceduralGeneration.jpeg" width="500" height="250">
+- Procedural Generation
+
+<img src="assets/SoftwareLogo/Simulation.png" width="500" height="250">
+- Real-Time Simulation
 ## Projects & Work
 
 I have built and released software, games, automation tools, AI projects, and 3D assets.
 
 Some of my work has been published through:
 
-<img src="assets/SoftwareLogo/GooglePlay.jpeg" width="500">
-- Google Play Store- <img src="assets/SoftwareLogo/itchio.jpeg" width="500">- itch.io- <img src="assets/SoftwareLogo/cg-trader.jpeg" width="500">
+<img src="assets/SoftwareLogo/GooglePlay.jpeg" width="500" height="250">
+- Google Play Store- 
+<img src="assets/SoftwareLogo/itchio.jpeg" width="500" height="250">
+-itch.io- 
+<img src="assets/SoftwareLogo/cg-trader.jpeg" width="500" height="250">
 - CGTrader
 
 My public GitHub repositories showcase selected projects, experiments, and technical work.
