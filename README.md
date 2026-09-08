@@ -74,16 +74,21 @@ My public GitHub repositories showcase selected projects, experiments, and techn
 
 ## Current Focus
 
-- AI-powered software
-- Interactive scientific simulations
-- 3D systems and procedural generation
+- AI-powered software.
+  link will be added soon
+- Interactive scientific simulations.
+   link will be added soon
+- 3D systems and procedural generation.
  1.https://www.cgtrader.com/designers/upc-studio
  2.https://uday-pratap-chaudhary.itch.io/
 - Automation and intelligent workflows
+   link will be added soon
 - Game and application development
  1.https://play.google.com/store/apps/developer?id=Uday+Pratap+Chaudhary
 - Research and experimentation
-- 3D storytelling and cinematic episodes
+   link will be added soon
+- 3D storytelling and cinematic episode
+   link will be added soon
 
 ## Future Direction
 
