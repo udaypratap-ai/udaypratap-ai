@@ -15,7 +15,7 @@ I enjoy turning ideas into working systems — combining programming, AI, 3D, an
 - AI & Automation
 <img src="assets/SoftwareLogo/flutter.jpeg" width="1000"> Python
 - Flutter & Dart
-<img src="assets/SoftwareLogo/C#.jpeg" width="1000"> Python
+<img src="assets/SoftwareLogo/Csharpe.jpeg" width="1000"> Python
 - C#
 <img src="assets/SoftwareLogo/Github.jpeg" width="1000"> Python
 - Git & GitHub
@@ -23,11 +23,16 @@ I enjoy turning ideas into working systems — combining programming, AI, 3D, an
 - Visual Studio Code
 
 ### 3D & Real-Time Development
+<img src="assets/SoftwareLogo/unity.jpeg" width="1000">
 - Unity
+<img src="assets/SoftwareLogo/blender.jpeg" width="1000">
 - Blender
+<img src="assets/SoftwareLogo/MakeHuman.jpeg" width="1000">
 - MakeHuman
+<img src="assets/SoftwareLogo/Bforartist.jpeg" width="1000">
 - Bforartists
 - 3D Modeling & Visualization
+<img src="assets/SoftwareLogo/Animation.jpeg" width="1000">
 - Animation
 - Procedural Generation
 - Real-Time Simulation
