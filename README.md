@@ -101,8 +101,6 @@ I have built and released software, games, automation tools, AI projects, and 3D
       <h3>🎮 Game & Application Development</h3>
       <p>Mobile and PC interactive games and applications.</p>
       <p>🔗 <a href="https://play.google.com/store/apps/developer?id=Uday+Pratap+Chaudhary">Google Play Store</a></p>
-      <img src="assets/Play-Game-Projects/CarOfHope/HomePage.png" width="250" height="250">
-        <img src="assets/Play-Game-Projects/LightOfLife/HomePage.png" width="250" height="250">
       <code>Unity</code> <code>C#</code> <code>Flutter</code>
     </td>
   </tr>
