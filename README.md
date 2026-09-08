@@ -6,98 +6,113 @@ I build software, AI systems, automation tools, interactive 3D applications, sim
 
 I enjoy turning ideas into working systems — combining programming, AI, 3D, and real-time technologies to build things that can actually be used.
 
-## What I Work With
+---
+
+## 🛠️ What I Work With
 
 ### Software & AI
-
-<img src="assets/SoftwareLogo/Python.jpeg" width="500" height="250">
-- Python
-
-<img src="assets/SoftwareLogo/Automation.jpeg" width="500" height="250">
-- AI & Automation
-
-<img src="assets/SoftwareLogo/flutter.jpeg" width="500" height="250">
-- Flutter & Dart
-
-<img src="assets/SoftwareLogo/Csharpe.jpeg" width="500" height="250">
-- C#
-
-<img src="assets/SoftwareLogo/Github.jpeg" width="500" height="250">
-- Git & GitHub
-
-<img src="assets/SoftwareLogo/VisualStudio.jpeg" width="500" height="250">
-- Visual Studio Code
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 3D & Real-Time Development
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
-<img src="assets/SoftwareLogo/unity.jpeg" width="500" height="250">
-- Unity
+- **Tools & Workflows:** MakeHuman | Bforartists | 3D Modeling & Visualization
+- **Techniques:** Animation | Procedural Generation | Real-Time Simulation
 
-<img src="assets/SoftwareLogo/blender.jpeg" width="500" height="250">
-- Blender
+---
 
-<img src="assets/SoftwareLogo/MakeHuman.jpeg" width="500" height="250">
-- MakeHuman
+## 📊 GitHub Analytics
 
-<img src="assets/SoftwareLogo/Bforartist.jpeg" width="500" height="250">
-- Bforartists
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaypratap-ai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaypratap-ai&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-<img src="assets/SoftwareLogo/Visulation.png" width="500" height="250">
-- 3D Modeling & Visualization
+<br/>
 
-<img src="assets/SoftwareLogo/Animation.jpeg" width="500" height="250">
-- Animation
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaypratap-ai&theme=tokyonight&hide_border=true" width="97%" />
+</div>
 
-<img src="assets/SoftwareLogo/ProceduralGeneration.jpeg" width="500" height="250">
-- Procedural Generation
+---
 
-<img src="assets/SoftwareLogo/Simulation.png" width="500" height="250">
-- Real-Time Simulation
-## Projects & Work
+## 🚀 Projects & Work
 
 I have built and released software, games, automation tools, AI projects, and 3D assets.
 
-Some of my work has been published through:
-
-<img src="assets/SoftwareLogo/GooglePlay.jpeg" width="500" height="250">
-- Google Play Store- 
--https://play.google.com/store/apps/developer?id=Uday+Pratap+Chaudhary
-<img src="assets/SoftwareLogo/itchio.jpeg" width="500" height="250">
--itch.io- 
--https://uday-pratap-chaudhary.itch.io/
-<img src="assets/SoftwareLogo/cg-trader.jpeg" width="500" height="250">
-- CGTrader
--https://www.cgtrader.com/designers/upc-studio
+| Platform | Store / Portfolio Link |
+| :--- | :--- |
+| **Google Play Store** | [View Apps](https://play.google.com/store/apps/developer?id=Uday+Pratap+Chaudhary) |
+| **itch.io** | [View Indie Games](https://uday-pratap-chaudhary.itch.io/) |
+| **CGTrader** | [View 3D Assets & Models](https://www.cgtrader.com/designers/upc-studio) |
 
 My public GitHub repositories showcase selected projects, experiments, and technical work.
 
-## Current Focus
+---
 
-- AI-powered software.
-  link will be added soon
-- Interactive scientific simulations.
-   link will be added soon
-- 3D systems and procedural generation.
- 1.https://www.cgtrader.com/designers/upc-studio
- 2.https://uday-pratap-chaudhary.itch.io/
-- Automation and intelligent workflows
-   link will be added soon
-- Game and application development
- 1.https://play.google.com/store/apps/developer?id=Uday+Pratap+Chaudhary
-- Research and experimentation
-   link will be added soon
-- 3D storytelling and cinematic episode
-   link will be added soon
+## 🎯 Things I Will Build & Current Focus
 
-## Future Direction
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-Powered Software & Workflows</h3>
+      <p>Building intelligent automation systems and interactive agentic tools.</p>
+      <code>AI</code> <code>Automation</code> <code>Python</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚛️ Interactive Scientific Simulations</h3>
+      <p>Creating real-time physics and chemical reaction visualizers.</p>
+      <code>Simulation</code> <code>Physics</code> <code>Unity</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎲 3D Systems & Procedural Generation</h3>
+      <p>Procedural terrain, level generation, and asset pipelines.</p>
+      <p>🔗 <a href="https://www.cgtrader.com/designers/upc-studio">CGTrader Portfolio</a><br/>
+      🔗 <a href="https://uday-pratap-chaudhary.itch.io/">itch.io Showcase</a></p>
+      <code>Blender</code> <code>Procedural</code> <code>C#</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Game & Application Development</h3>
+      <p>Mobile and PC interactive titles built with Unity and C#.</p>
+      <p>🔗 <a href="https://play.google.com/store/apps/developer?id=Uday+Pratap+Chaudhary">Google Play Store</a></p>
+      <code>Unity</code> <code>C#</code> <code>Mobile</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Research & Experimentation</h3>
+      <p>Exploring novel algorithms, real-time graphics, and AI integrations.</p>
+      <code>Research</code> <code>Prototyping</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 3D Storytelling & Cinematic Episodes</h3>
+      <p>Creating original animated short episodes, characters, and environments.</p>
+      <code>3D Animation</code> <code>Cinematics</code> <code>Blender</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔮 Future Direction
 
 I am working toward building larger systems that combine:
 
-**AI + Software + 3D + Simulation + Storytelling**
+$$\text{AI} + \text{Software} + \text{3D} + \text{Simulation} + \text{Storytelling}$$
 
 I also plan to create original 3D story episodes using my own characters, environments, animation, technology, and creative systems.
 
-## Connect
+---
 
-- GitHub: [@udaypratap-ai](https://github.com/udaypratap-ai)
+## 📬 Connect
+
+- **GitHub:** [@udaypratap-ai](https://github.com/udaypratap-ai)
