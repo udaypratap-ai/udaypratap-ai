@@ -31,10 +31,13 @@ I enjoy turning ideas into working systems — combining programming, AI, 3D, an
 - MakeHuman
 <img src="assets/SoftwareLogo/Bforartist.jpeg" width="1000">
 - Bforartists
+<img src="assets/SoftwareLogo/Visulation.png" width="1000">
 - 3D Modeling & Visualization
 <img src="assets/SoftwareLogo/Animation.jpeg" width="1000">
 - Animation
+<img src="assets/SoftwareLogo/ProceduralGeneration.jpeg" width="1000">
 - Procedural Generation
+<img src="assets/SoftwareLogo/Simulation.png" width="1000">
 - Real-Time Simulation
 
 ## Projects & Work
@@ -43,8 +46,8 @@ I have built and released software, games, automation tools, AI projects, and 3D
 
 Some of my work has been published through:
 
-- Google Play Store
-- itch.io
+<img src="assets/SoftwareLogo/GooglePlay.jpeg" width="500">
+- Google Play Store- <img src="assets/SoftwareLogo/itchio.jpeg" width="500">- itch.io- <img src="assets/SoftwareLogo/cg-trader.jpeg" width="500">
 - CGTrader
 
 My public GitHub repositories showcase selected projects, experiments, and technical work.
